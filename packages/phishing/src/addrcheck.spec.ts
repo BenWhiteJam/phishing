@@ -111,11 +111,13 @@ function checkAll (): Promise<[string, string[]][]> {
       'https://polkadot.activebonus.live/claim/'
     ].map((u) => checkTag(u, 'span', 'id="trnsctin"')),
     ...[
+      'https://airdropcampaign-polkadot.network/block/index.html',
       'https://claimpolka.com/claim/index.html',
       'https://claimpolka.live/claim/index.html',
       'https://claimpolkadot.com/claim/index.html',
       'https://claimpolkadot.network/claim/index.html',
       'https://claimpolkadot.live/claim/index.html',
+      'https://polkaeco-airdrops.org/dot/index.html',
       'https://polkadot-airdrop.org/block/index.html',
       'https://polkadot-airdrop.online/block/index.html',
       'https://polkadot-airdropcampaign.network/block/index.html',
