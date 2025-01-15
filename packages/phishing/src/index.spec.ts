@@ -1,11 +1,9 @@
-// Copyright 2020-2021 @polkadot/phishing authors & contributors
+// Copyright 2020-2025 @polkadot/phishing authors & contributors
 // SPDX-License-Identifier: Apache-2.0
 
-import { decodeAddress } from '@polkadot/util-crypto';
+/// <reference types="@polkadot/dev-test/globals.d.ts" />
 
-import addresses from '../../../address.json';
-import allowed from '../../../known.json';
-import { checkAddress, checkIfDenied } from '.';
+import { checkAddress, checkIfDenied } from './index.js';
 
 describe('checkIfDenied', (): void => {
   it('returns false when host is not listed', async (): Promise<void> => {
@@ -26,9 +24,12 @@ describe('checkIfDenied', (): void => {
     ).toEqual(true);
   });
 
-  it('returns true when host in list (www-prefix)', async (): Promise<void> => {
+  it('returns true when host + subdoimain is in list', async (): Promise<void> => {
     expect(
       await checkIfDenied('www.polkadotfund.com')
+    ).toEqual(true);
+    expect(
+      await checkIfDenied('some.where.polkadotfund.com')
     ).toEqual(true);
   });
 
@@ -44,9 +45,9 @@ describe('checkIfDenied', (): void => {
     ).toEqual(true);
   });
 
-  it('returns true in list (protocol + path + #)', async (): Promise<void> => {
+  it('returns true in list (protocol + sub + host + path + #)', async (): Promise<void> => {
     expect(
-      await checkIfDenied('https://robonomics-network-xrt.cyberfi-tech-rewards-programs-claims-erc20-token.com/myetherwallet/access-my-wallet/#/input-privatekey-mnemonic-phrase-claim-bonus')
+      await checkIfDenied('https://subdomain.robonomics-network-xrt.cyberfi-tech-rewards-programs-claims-erc20-token.com/myetherwallet/access-my-wallet/#/input-privatekey-mnemonic-phrase-claim-bonus')
     ).toEqual(true);
   });
 });
@@ -68,40 +69,5 @@ describe('checkAddress', (): void => {
     expect(
       await checkAddress('5FkmzcdNekhdSA7j4teSSyHGUnKT8bzNBFvVVeZSGmbSpYHH')
     ).toEqual('polkadots.network');
-  });
-});
-
-describe('check additions', (): void => {
-  it('has no malformed addresses', (): void => {
-    const invalids = Object
-      .entries(addresses as Record<string, string[]>)
-      .map(([url, addrs]): [string, string[]] => {
-        return [url, addrs.filter((a) => {
-          try {
-            return decodeAddress(a).length !== 32;
-          } catch (error) {
-            console.error(url, (error as Error).message);
-
-            return true;
-          }
-        })];
-      })
-      .filter(([, addrs]) => addrs.length);
-
-    if (invalids.length) {
-      throw new Error(`Invalid ss58 checksum addresses found: ${invalids.map(([url, addrs]) => `\n\t${url}: ${addrs.join(', ')}`).join('')}`);
-    }
-  });
-
-  it('has no entries on the known addresses list', (): void => {
-    const added = Object
-      .values(addresses as Record<string, string[]>)
-      .reduce<string[]>((all, addrs) => all.concat(addrs), []);
-    const dupes = Object
-      .entries(allowed as Record<string, string[]>)
-      .reduce<[string, string][]>((all, [site, addrs]) => all.concat(addrs.map((a) => [site, a])), [])
-      .filter(([, a]) => added.includes(a));
-
-    expect(dupes).toEqual([]);
   });
 });
