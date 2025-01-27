@@ -1,238 +1,542 @@
 {
-  "3xpool.bid": [
-    "155dDX3rWoNsY4aiJFbsu6wLB91c2J2Ws5BgMfJKyM1eGnkS"
-  ],
-  "airdropcampaign-polkadot.network": [
-    "14FscqFT8S8W8emC5294cEpDctgAucJW7C99mpxS4cucpHoA"
-  ],
-  "blockfipro.com": [
-    "15Z7MdMM71vHTL7jNmNhm5xCUG5szJuyccGr3p5uzZgkz6Lv"
-  ],
-  "claimpolka.com": [
-    "12jo5dBMedbma3XcU6Grj7m6ckeupjg4aj9Q1oFyK3Z7oh3"
-  ],
-  "claimpolka.live": [
-    "12aCLUsyTCWn5Dzf5wxuuRm93dx9rkAF5rqw9zBDTV5NSY1E"
-  ],
-  "claimpolkadot.com": [
-    "16haZsnTpsAK3PaqRJJE16Zasq9WkpovgUCdQGStKHMskLdp",
-    "1SvcGb9f2gysJAqwox5sTQpyyKjtDUaz4q5RUYANB6uFkQw"
-  ],
-  "claimpolkadot.live": [
-    "14jjC4vmMS8QvbRKKkyyQaqkdWysqGUwhtwxoRV5WT71b1Ho"
-  ],
-  "claimpolkadot.network": [
-    "15LmfYr1UwK9ghjn5cNYoBmApaiWGFNnhBdm6nQF87vY2AcV"
-  ],
-  "dot-event.live": [
-    "14ZWBoQugxP2i1pjYALrhEihJgKm8S33q63i8unxucooYMiC"
-  ],
-  "dot-promo.com": [
-    "14VezybXdNSVoWLKN1HSae56WEV6AXrLY4HKEWjJ4Z7BegJd"
-  ],
-  "dot21.net": [
-    "1Z5ohZkHN4TjWeKpcA3tqpd4uNSA3r9fzsEG9aviDUWAeo2"
-  ],
-  "dot4.org": [
-    "13iTPfjzkacRggDUPpN3SUWgbLT9ziasXNKXCbUVdwqiNTCX",
-    "1Z5ohZkHN4TjWeKpcA3tqpd4uNSA3r9fzsEG9aviDUWAeo2"
-  ],
-  "dot4.top": [
-    "1Z5ohZkHN4TjWeKpcA3tqpd4uNSA3r9fzsEG9aviDUWAeo2"
-  ],
-  "dotevent.live": [
-    "12dXTqdx5gV8SeBkugtsWrYF57BqiJk8QTGuEauqGAApBtar"
-  ],
-  "dotevent.org": [
-    "12759G1BVPC7cAb5tT8qLzDJUcnBuyW3n3icMwAA8uWGiUtT",
-    "1ZkzFrJ3jecDVQ4oLWJ2fEftUUc2aSAyN8kAPLrV2dFJt3K"
-  ],
-  "get-dot.me": [
-    "15hwZjAVgAmEfH8LYCQEVVLQ7tHq2b5Ns6K6HwpuoCCEb4Mg"
-  ],
-  "getpolkadot.net": [
-    "14yHC3SsfvF6mDLG5co7hyX124hJmriUJA6oFHBVaqa8MUF5"
-  ],
-  "getpolkadot.us": [
-    "12rpYzbZHLmM83UcAuudQWr4cdb6xVCCe2brMQeno5isbSwK"
-  ],
-  "instantwalletconnect.org": [
-    "14Vm4o3uNZdEJvjGsoTGcWAac8pKETuCvThrv2toGRd5mqjd"
-  ],
-  "kusama-wallet.com": [
-    "DfcWKx1P9hXGYFg3Wef1Shd2eXzEq2zbCxNDj3ensKBbpgy",
-    "Ep2sBdP9974k9FRYvmjyfyffnyy5WfpgWuBCefJS3ySf2DL",
-    "EXszXNkNJPxdaD3MbRGsSChYMEZqENx8ojN4QaFA2TXVdam",
-    "GRy7LfBXoFaYadiCBGHS1gG4VHLeQPhXtzYmwpw3519Fsna",
-    "H4hHhuhs1zWm1jAjj42VAr7VTc99yV3J9x3tXLTtD2GnMvD",
-    "JLTc71gmpMB95GJSgXrp79Soijvqibg27uiQRkLEDHdRrqq"
-  ],
-  "musk-in.com": [
-    "12rpYzbZHLmM83UcAuudQWr4cdb6xVCCe2brMQeno5isbSwK"
-  ],
-  "polka-live.network": [
-    "12Wq34hifmLv4MGZKof1XnA9hugnzMyjqos1ffGretnDSkKn"
-  ],
-  "polkabonus.com": [
-    "16XuqCCe8kBK7SbLhaLhUQQzRLJthB2hdrPzKghVGZqwAsRs"
-  ],
-  "polkacoinbonus.com": [
-    "13WKPgYxPyzL8KMcqZ94eSFp2FoQH4AUxxLgjj7Sgkdhw6R9",
-    "14iSVrf4GM4SCV1eYCBJpLKjRDjWvLEdb1Rk7jmQSjhkCScv"
-  ],
-  "polkacompetition.network": [
-    "13wexwAAKXFmubsbWtrWpy2F5osPNFhEsCUdoV1z2NMmxESm"
-  ],
-  "polkadot-2021.com": [
-    "145Q8TtcaosvWTWsQ4G7DARkwPEsDQPdaptKMhDww8QGnG3Z"
-  ],
-  "polkadot-airdrop.info": [
-    "13DUJB2UFQYJNG8eAgvbPUDZowTnb45cq7EM7WvtkNksPMZW"
-  ],
-  "polkadot-airdrop.live": [
-    "15x6f6M42ccmTq3emCtyCZUKCbYLH3msCPmHGnEgwUxZRAu4"
-  ],
-  "polkadot-airdrop.online": [
-    "13tPgZsgmExwuRRKFsvj16LCVN4XXKtjGMH5yLW7cit8GJ73"
-  ],
-  "polkadot-airdrop.org": [
-    "12We44NDCNUWa9tnfgxmSc38vDXFXcnLDkGdL2Xy45mnhZ52",
-    "14BFcanA3zYTpbCmzKGXVEnFe9WoBCq3JdPQdnsiEgEhXSA2",
-    "14oEqqqCabUQdsdq1zP1qdb8b4uhEnc2mL1YYHKf8xYbh8FB"
-  ],
-  "polkadot-airdropcampaign.network": [
-    "128yJEQjj3chFwgvWwp47tDPP1GewnJLz46et8dvRpq63JPX"
-  ],
-  "polkadot-airdrops.net": [
-    "15qeaJ252MdLNjiEfhb7aLrbDCekLT6MUtkVQPqKGa9P8r5J"
-  ],
-  "polkadot-autopool.com": [
-    "1qmaACn27JqK2hsg24n8AaptPtNqNMWKNXUvySnBuWzdQ8x"
-  ],
-  "polkadot-bonus.network": [
-    "12RGBMjuLkCX6TKUoG33Fm4SzpxNYjwjgqHZ9huk5Nk4NAPh",
-    "1DsARAWRSyMoy815SeZrFytb74Qvw7W2wsrsYWZxZmHcRC4"
-  ],
-  "polkadot-event.com": [
-    "124QZBBTZtPDGPS4GqK6w8y5rPUC7EydLka9Gk3qCTDemGTN",
-    "13DW6RWgjUPcZ9mwwEMcb8qBcakQyzpxNw8ic32QXAEfGLxW",
-    "15GhxqrycWiRe9PePtN5CppTk8g63dXgM5vm9a9gwRMbPjRZ"
-  ],
-  "polkadot-events.live": [
-    "157S94u4bwXapUzQxJsch14c8V2qGHvSLVp3iY1neEUQrPrE"
-  ],
-  "polkadot-get.com": [
-    "16hGDoTMCp5MidmTrNrM7C4PmW8YsKHWdfWuYNS4j7uqUMZ8",
-    "1xxiVzncNRjFHMHUo27iLDo931f35YjVQauRBWuA4JEHfRz"
-  ],
-  "polkadot-gift.info": [
-    "15qfYtQaRHHqxxAhRX5qKh6HXeWaSaF7rLfzjLtgW27USYH1"
-  ],
-  "polkadot-gift.org": [
-    "15qfYtQaRHHqxxAhRX5qKh6HXeWaSaF7rLfzjLtgW27USYH1"
-  ],
-  "polkadot-give2021.com": [
-    "12BiQc2z8baceu1DLNSXYRbQHGCrf3Gfg8oqrVZQkVcUZYgN"
-  ],
-  "polkadot-online.live": [
-    "16h6cD9DvRkz7Z8Xd43BTmubqaSQcZ3EUMD3tiHNwJ6kuhQa"
-  ],
-  "polkadot-promo.info": [
-    "15qfYtQaRHHqxxAhRX5qKh6HXeWaSaF7rLfzjLtgW27USYH1",
-    "1s3B8f5dJbtV4rVTZs1WNRpzKCUJWxK2zULErjmA52Do2SF"
-  ],
-  "polkadot-wallet.org": [
-    "12aTob47XtRAYUUjUyxAH92gDLwrEwq8YGzLVptUJytuqF3U"
-  ],
-  "polkadot.activebonus.live": [
-    "14SmaFsh7VitSn8mdTZyb4Z7RuVWyCPLKJF7zNweUzr5WHsH"
-  ],
-  "polkadot.center": [
-    "12nNSFLEJU2HiuSidgd3c1bzSNn82SNpobnGso5GXF43eme6",
-    "12sGH82aAENExuio8BpNqXGxaXgrxMS88Qm9bfSJrav9Nito",
-    "133t5Gs2ccbjHN7dYD4Qwr6sxK8Lgg8pFVJPy1nDaPWvYZFP",
-    "14Vxs7UB9FqfQ53wwTJUBAJThs5N7b3bg89HscRU6eBqrFhQ",
-    "15D9AzetihsSKbtENL4TL9q8AeQkAaZTLiu7rWE3dXaMvb7t",
-    "15dLxX36VPeP2LvFDYAjT5h4T4aHT7z6YoUSe9fBZSnGhJ9m",
-    "15z4uj2amXJNiRbb4hRje5hSKCh9M8EEfKh1CYfXPDn86Q3Q",
-    "1b75pxy41SLXDeoddmV1cnCzg8G9MVPWZjJ9Ej46ePvWKvZ",
-    "1sGUwgsvuzuyKCD5i1V2zG92C8b2udF3rnB7VvDq8S2ddfd"
-  ],
-  "polkadot.company": [
-    "1s3B8f5dJbtV4rVTZs1WNRpzKCUJWxK2zULErjmA52Do2SF"
-  ],
-  "polkadot.deals": [
-    "12Hyg8wxXFVrggfQNvUAJDH7wAtZz1VzAmvr5dL4PnUswh9t"
-  ],
-  "polkadot.express": [
-    "13nHdwVLfHNbfj7aAxCwXhdS8HvCKggMpzy7B65jgcUFXRp9",
-    "1m4ETpXD8ea24oFkegbBfFSC3nXh6FqGuvgXdxpq2iQyUkn"
-  ],
-  "polkadotairdrop.com": [
-    "1RnWVvUiL9ZmDEYWxSpNyrWhq9gHEQcihFoYBdJTmuWjaav"
-  ],
-  "polkadotceo.com": [
-    "145Q8TtcaosvWTWsQ4G7DARkwPEsDQPdaptKMhDww8QGnG3Z"
-  ],
-  "polkadotcngiveaway.network": [
-    "133R8fsXDoUyXqPCXJcRvGHo8fyjqxVrVFkyZGCEewc4M4zR"
-  ],
-  "polkadotevent.com": [
-    "155o9qsbLFQdWRdhDvJZAdnmBHQCnbrbSbbpnH27618CX1ry"
-  ],
-  "polkadotevent.live": [
-    "16jsZHnWhg7uSeFfG7DFPo1SEd12RZURFsbvX35oHW61oTqw"
-  ],
-  "polkadotlive.network": [
-    "12BSDyhSV4XXmBXcgKTnsMi6e4ir56ttufiXB36x7v4utRNw",
-    "13PD34YRdcLAfwPpuWTbRBDMYXCvzYU5gKkJt5h7hEc6nezv",
-    "15TZMmGy3eX6FJqCJHLir4KSnd5ECUukFVvgfEPCuDhe8asx",
-    "161tc4jLym61rz84WaxqBiiBovmH2FmnKGVDKcZyquwUxJEg",
-    "166a8ThxgaTseVJ5ado3qmyg9YkYfys81uNw94PTZceAmZoX",
-    "16C6TrBTi7VohiMguZeSCNPxwqYTR9eWWoQsbwnJ7wtJTD2N",
-    "16UDgowT2DEEk73EX2bB5c5HmuvJrLvmWsGomWmyK3CqyzVz",
-    "1kkuZEr93AtZL9mDyo2ZBXLm7cjCpABiitieYVhKLFniP2m"
-  ],
-  "polkadots-airdrop.com": [
-    "134FGPTdSgz7vH2jMHRGNJA53irZ8xJeHauTmowNkfLez3BQ"
-  ],
-  "polkadots.network": [
-    "125NoipEsCbtFHNW9b2oyBpKQue5Rco2KJKveB5QQJLQJKyY",
-    "12MxahH5ht8VhJBHtgs5JzaB2BQu3FBc3f5ydi6q9t31AHbg",
-    "14h58wtSWXy6sh8F2XhSb87RLQK6puYWFkeyewYnprcxzz9Z"
-  ],
-  "polkadotstake.live": [
-    "1SApiFKXgNzu6uvbHLPNccfEW72bwX9XuHCm9czsrXsNttv"
-  ],
-  "polkadotstaking.live": [
-    "15aAz55RFFPYTs7P9eWry5AeYy75mgyqJQ4BNspcBPjFonns"
-  ],
-  "polkaeco-airdrops.org": [
-    "13wVdQNmLTyvcxk4ZrXtwUFT1CBHT9s15SXH7EmPpFPHh8c4"
-  ],
-  "polkagiveaway.com": [
-    "12HR9ciHKMmcs7MJhykPUEhSk7ssA1eu7VWZyoLqyZ1os4Uf",
-    "167u8YLEEBwENxQnKw8GJwbWWREoWxMGMnVuXW6HcYBXbVc2"
-  ],
-  "scam-check": [
-    "12KYiC8PZaXuGFay57m8TJCeHaRGp1uy4ADMiqVkXArMiSqP"
-  ],
-  "social enginnering": [
-    "16JeATU8HazNbaMkpNW2niozWgNu1A6dx5u2kKs7pZaS4Vze"
-  ],
-  "telegra.ph": [
-    "125W1NSHM63kKp1xTrKgUijAMMKKm8kwgydXKno6VNhKs77i",
-    "14MrAYGMmV9Yy2JDQQUzvPS6zQUyXHNLrNLV8bLtPV4K7otN",
-    "1X3M7sGA1Nbgd8Qh45uqdQMPNFXSHbWnvPp6CkQ9Ttp46dQ"
-  ],
-  "twitter.com": [
-    "15MGfKyXwLuuBndsiz25CJXjzR7Xp4SwTXkYJR2nNY5MGrPE"
-  ],
-  "youtube.com": [
-    "13afnZRWDqmaRapMg6URQkDEnoxuVzHUCYo2v61dXaKHdgBB",
-    "13xuoAwwqfZuyAsRuUBasa8AhjdqzRbdyS3m52Lu6oCpFQRv",
-    "1461Dsvr9GmkRjUkdJcYGP6HFygwQeZcspc6W5QgJVAT59yt",
-    "14gWkqi6J3U4mcRTCi7yy824S2GepSNqpM4xNjLTCzGQpCst",
-    "1X3M7sGA1Nbgd8Qh45uqdQMPNFXSHbWnvPp6CkQ9Ttp46dQ"
-  ]
+	"3xpool.bid": [
+		"155dDX3rWoNsY4aiJFbsu6wLB91c2J2Ws5BgMfJKyM1eGnkS"
+	],
+	"airdropcampaign-polkadot.network": [
+		"14FscqFT8S8W8emC5294cEpDctgAucJW7C99mpxS4cucpHoA"
+	],
+	"alfa-coin.org": [
+		"16UZJxDhtiCDhDG9o8txNQRAJLMPDNSJPkactNf9X99HXfuP"
+	],
+	"Atomic Wallet attacker": [
+		"112JcwQP2hKuJGPnuet9zUCBAZw9P7ZnbcZ4LcZJYS5ToewA",
+		"12bf3vc4GerXhA1judJg3gzNQPb81BN3QZxXd1ixKx9ihVxE",
+		"12bVcBhfVK25HCnkmigbCv1EKWC1crH8gvCJD7o5oUX1DuZ2",
+		"12LCZkGc1wk94H3fPFJKhQXM5X2wKT7N5GsU4zbHRh1CAW73",
+		"12NMqf4GKChEYizka342HuQSkMf8Wybp6yayd29JEuReZdWH",
+		"12nRZPRGAspxEhEn5bvciAZA6gnF3ZV1TkP3jw1mkPC5qqg7",
+		"12pWT3gucQsDcowWHmBjjTfehAbxaW7r1P7gtEn2Bb8SLDCR",
+		"135sM71tUJfcw7VdmtrcNxS4sJQpYpLvhETC1ssSHYf2G2i3",
+		"13GTmKneXcgN1XynPdo3kAG5jnynaWhLfap5EHpg7o26uu9C",
+		"13QXv3NpZRPtKeGmu2nvGv5Hmkb2MXkwSPSahiBFnKwcCi77",
+		"13tz7tfJ2Jy3QsRkB2K8Q5YbWwzW7Aq6qtJ9ydQysnTKndS7",
+		"13VGKZZdH9qNQGFwqyjSdaKZaLfEjaQgh1Q2sU9msp8gBWQT",
+		"14dvUysTRvcNrxUK5YFcQogR8dRKoumXBW6icDMVsjigyPPN",
+		"14JSqAwhSbEyqJ3crggGu8Hau4NHyANxxNexbpuxhgjCj5wy",
+		"14SmRq3PLjMEYgUg52gaZAi3trKnsN6Sj5D9bym2T8AGzaQE",
+		"14SN7GmRXkw3x7cchZ43U9VMzVd2SytvfkujasVmHQuuLxVx",
+		"14uiVMLa7LZtWdXBnpsNHkmXo2vczb3FTecyZbnAXnDCPezX",
+		"14zDEwLKAmdu8FC7LmvixjPFi3z2qZ9JMQg3oZXGuGhnCTeJ",
+		"15J37QcJg4FZVX5pWMju9CYutcgYpoXVjCPwRNUMuZXEqXvh",
+		"15m5EnpV8HUg3imsSfNPt2Si5sWbTSPz9fYvBBqm9omTQkUX",
+		"15S4BfNB4yWAbGt1Sbktn5jyA6kZdWaB7UiWmZ3G2wfGQ2NN",
+		"16dPSsswzqVmN9xYeMjuU9F49cNyH8ANz5LaUR7T9vfX5yGN",
+		"16JPQtrXF7UdpvX1CWY7FY2HpLQqUZoocENj5NPMTVFquMVv",
+		"16kgt6CnhgwuDd8FLdhnNU64uHTkKaPF8b6QXwbZTu8wbVBA",
+		"1qcVj2cs5PDTbpqmW2LS6Tqvc6hb6p4cwSAjHhcrkKQ51Hi",
+		"1xCofPRX3CgeAa2TeHvpeiYHncYsaQz2c3Cb8P6vT3Yb6rv",
+		"1xupErVtgssjSmTcZ9p9yc3VLEvvrQbTQ3F5wpahW2KftDF"
+	],
+	"bestchanger.eu": [
+		"13KJyB7gTuEQfLbzSQ1HBg4GPSJUZ7Q7t9RGKF1LRFjSHFkD"
+	],
+	"blockfipro.com": [
+		"13Ld2R3YQg5ztyevreJbFxEWqYw55tFzrPwu1C5ucgpFWGiL",
+		"15JbkRjYVSg1vWEF9J1HLu6GGUvnhv1XacGPWosbg3AFNojh",
+		"15Z7MdMM71vHTL7jNmNhm5xCUG5szJuyccGr3p5uzZgkz6Lv",
+		"15ZTLVhKWpT7bkGFkqkdjA1Rci2Dtq7B6UyC4Dj11NWo2fgh",
+		"16nC1MhdhJFqazSgZFWHBhKgrkk4qYvD1y5W3UuqxADcsEJ9"
+	],
+	"claimpolka.com": [
+		"12jo5dBMedbma3XcU6Grj7m6ckeupjg4aj9Q1oFyK3Z7oh3"
+	],
+	"claimpolka.live": [
+		"12aCLUsyTCWn5Dzf5wxuuRm93dx9rkAF5rqw9zBDTV5NSY1E"
+	],
+	"claimpolkadot.com": [
+		"16haZsnTpsAK3PaqRJJE16Zasq9WkpovgUCdQGStKHMskLdp",
+		"1SvcGb9f2gysJAqwox5sTQpyyKjtDUaz4q5RUYANB6uFkQw"
+	],
+	"claimpolkadot.live": [
+		"14jjC4vmMS8QvbRKKkyyQaqkdWysqGUwhtwxoRV5WT71b1Ho"
+	],
+	"claimpolkadot.network": [
+		"15LmfYr1UwK9ghjn5cNYoBmApaiWGFNnhBdm6nQF87vY2AcV"
+	],
+	"clipboard hijacker": [
+		"144cEewJH4TCxr9LamDAuQRTaFkNmws5E8mEibyiTB5PKByi",
+		"14rw3S9GzUJKFkESsQs4qf3r7RPzxNsTMWH5Vi1v4sxaxZQG",
+		"15hXAH4wYrCKz3R2MVRTaY3y8yqMePHova2KCwvQGd2shLDz",
+		"1og4JNPFhfBYTyb3d9s1wUpbUfpjdKxj45UWTR7G2MGxbSs"
+	],
+	"coin-express.me": [
+		"15thGpT27un24iSwtWkUeH9Y7o66YJwCHaBLZB95gAJRSyQp"
+	],
+	"coin-express.online": [
+		"15e4tRML8HDU688CQGgK78UVj31mRxxQwvFSKZrwro7JH2oh"
+	],
+	"coin-express.pro": [
+		"16kxHTvCrbX4qig6nLQTfaoY4M5YWkz296Kpazv4d6kKXD7b"
+	],
+	"coin-express.xyz": [
+		"1oeTue4y141ngpKVBVKwkHxSQ4dki8Vm5S5BCU5mHDawHNN"
+	],
+	"coinduck.pro": [
+		"13gDqBq7jvU8oLqiFzZjJK21cpFXg8Tndvvb78nPjiAr6kxb"
+	],
+	"cosmosdrops.cloud": [
+		"162kJkTaQ1gPAXiLiBvyDCGEuWZFi9o9CMbKqN8z4MW5Fpqu"
+	],
+	"criptaorg.com": [
+		"13jZ1JumyVCSj4zMMS63LbVAbkjtRiBS4TGr7cZLZdGB6cYJ"
+	],
+	"crypto-delo.ru": [
+		"121rFxeYv8Jh2oY8AKkLUYuAHfo6yU4HLHTP6UeyQTLGHiXK",
+		"12Gyy8Tk6qEvnFnqC8A672RKwxR5MmdJpJcs3Ui6ZVbMcADA",
+		"13M7xJenMKqgEGucYfBX9yprPP56zgwy9NMzwHyMCqS3cgHw",
+		"13MpErWtaofUea9H6x3LGiv737Jgcwo9KBKkN86khj51G3XQ",
+		"1487AbuiekSiL3e5EQUDJdh1VMtnubsEBrhmdTZr3GqRoxwT",
+		"14obHV6K2Y9uea63y35ZnX2nHe2W5kWwZC2tdBM5mvAi1ywx",
+		"14Xm9UFYgFJzA8tPAuKwNKQsJG2vpSQb5c9NjYcqttLRGp6G",
+		"15jcdrZtPNYuJUyj3ySxteQh61AkXRiZvwQ9d4B2zYcBkZCB",
+		"15jxqSpFTt7HzfUq8b3LXCr59Xee6zg8bDgk2YEsN4QES4MT",
+		"15k6TR4GKQKWZ6bTphNZxyC39dX1uG8WxaortwF6VTaS5DYc",
+		"15Ktwc9RxZsecTcRDfcnfC2LvXSjQofTj4kwBVV9fpP9FEs8",
+		"15mkxFPeKQsycxK6kMcqoTvNKeqTBCArrZrZWwqpRuP7o1ko",
+		"15n1ZwX5EUQcMLAzNmusz3bxMSUVo1vWPhcq7zpo3ceT1HsY",
+		"15obSZxbzrUgFPAGmBrPqepd11qmGJzHmkV9Q1JRg7eh5DX8",
+		"15oQiGX53zHj56WoW7buqVineErnfVJebrQUHCXrib9Mna2K",
+		"15Q6wxTbhJNscNH94uKTtCErkDx4Eq2JogVF5sT3dTqqR6Bb",
+		"15qzP6nYyGh6DRdygRh1WgoLhmrQudTFJrLQyRMoRVDWiLsp",
+		"15S794EQqBoyiLrrmczmuczMLRfzZBo5ZoJj8mgpg8V1CYF3",
+		"16eqE8MiVAdsxHKxmJzetCjGR7gkQxsDLZYvLPJM3QwirFKd",
+		"16QxTE178SmeRS1i2zypAZ4tkrQoQbs1BTPKmzawfkdPdD8j",
+		"19GGJiHe2idDzcuKRHn8Tp1UEST8GoUowALBcPcgzY5ir5b",
+		"19QW9baMqbNCPvG6Dpky4UHwtiMD16eMG4nLfwSmCQw61XH",
+		"1ghPrBFHo133Jtwf2PCZVzUpJCgN11U4frPE5Uo9Q1jBKd5",
+		"1TzKarVNZusvukKh4qguZLiBmfiJFpFvcCXzXfM8vjVn76S",
+		"1YHDevCkjexa3A6QCyEo2T6rcJFViWWt9Jh7ygEwyLgbYhu"
+	],
+	"crypto-magnat.org": [
+		"13YS1eHSV6f55GppnPRJZVoKPQ2TpAhUyhey1TPE6tE8yKHJ"
+	],
+	"defi-integrated.com": [
+		"13s3zbrb81St5Bh8QtzxTujLzjBCa5uheXznzv7QWrE89p7w"
+	],
+	"dot-event.live": [
+		"14ZWBoQugxP2i1pjYALrhEihJgKm8S33q63i8unxucooYMiC"
+	],
+	"dot-promo.com": [
+		"14VezybXdNSVoWLKN1HSae56WEV6AXrLY4HKEWjJ4Z7BegJd"
+	],
+	"dot21.net": [
+		"1Z5ohZkHN4TjWeKpcA3tqpd4uNSA3r9fzsEG9aviDUWAeo2"
+	],
+	"dot4.org": [
+		"13iTPfjzkacRggDUPpN3SUWgbLT9ziasXNKXCbUVdwqiNTCX",
+		"1Z5ohZkHN4TjWeKpcA3tqpd4uNSA3r9fzsEG9aviDUWAeo2"
+	],
+	"dot4.top": [
+		"1Z5ohZkHN4TjWeKpcA3tqpd4uNSA3r9fzsEG9aviDUWAeo2"
+	],
+	"dotevent.io": [
+		"15fv8ovgk2kw43EYK7e5Pz2aBnAhDhoYQRcep9i3iwUFmBSf"
+	],
+	"dotevent.live": [
+		"12dXTqdx5gV8SeBkugtsWrYF57BqiJk8QTGuEauqGAApBtar"
+	],
+	"dotevent.org": [
+		"12759G1BVPC7cAb5tT8qLzDJUcnBuyW3n3icMwAA8uWGiUtT",
+		"1ZkzFrJ3jecDVQ4oLWJ2fEftUUc2aSAyN8kAPLrV2dFJt3K"
+	],
+	"fix-exchange.org": [
+		"12RzpdbvArBVkywyCXwpgFzC9uj2XHr4bsbPRwr3wynf3Gs7"
+	],
+	"fixed-change.com": [
+		"12Dw5xe9FwBswd6v6QkbSg9oiNg9uVckSSPActL6Ut9nhqSe"
+	],
+	"flyswap.pro": [
+		"137t4BHwu1HoAPpajzDVmUvJzcRSQWDfxH5znrE6iih3K3b2"
+	],
+	"get-dot.me": [
+		"13NFtxWVvF7rZmUj5t89B2GowgGewkHBvpJEc6azVKpepjfa",
+		"15hwZjAVgAmEfH8LYCQEVVLQ7tHq2b5Ns6K6HwpuoCCEb4Mg"
+	],
+	"getpolkadot.net": [
+		"14yHC3SsfvF6mDLG5co7hyX124hJmriUJA6oFHBVaqa8MUF5"
+	],
+	"getpolkadot.us": [
+		"12rpYzbZHLmM83UcAuudQWr4cdb6xVCCe2brMQeno5isbSwK"
+	],
+	"Hacker wallet": [
+		"12moRZcD4Vy7WXAcbUgYgLA9FoBPrXTCAW5WbCqCTEUc4dG4"
+	],
+	"hacker wallet 2": [
+		"12eZ7Z2bpu9tKAWF7ut64W1uw265HtKrw3fNaE2tbMKzC9Fx"
+	],
+	"holdane.com": [
+		"1ZURA97ytkt5UzXnY5Dikb72DpG36ASbAgqnq6FgARUfksL"
+	],
+	"hotgains.xyz": [
+		"Ea5tiakNhCZFyxmRjBHwLf945fPSB8XFxhn5aUekfDyaHvs"
+	],
+	"instantwalletconnect.org": [
+		"128qayNTm5mRgKoMtmwTzsi2EwbWwcWnTvXv1xmKiVonFk9T",
+		"14Vm4o3uNZdEJvjGsoTGcWAac8pKETuCvThrv2toGRd5mqjd",
+		"15aHionFg8vVU2JxshGq8YTwYKwgVwM4deAQ6SMHB9XdSXuR",
+		"19miEm83FPKY9UtQk7eNjsRaoiw1UZcCawGhvA9uM4m8ak6"
+	],
+	"izieth.com": [
+		"13jZ1JumyVCSj4zMMS63LbVAbkjtRiBS4TGr7cZLZdGB6cYJ"
+	],
+	"kusama-wallet.com": [
+		"DfcWKx1P9hXGYFg3Wef1Shd2eXzEq2zbCxNDj3ensKBbpgy",
+		"Ep2sBdP9974k9FRYvmjyfyffnyy5WfpgWuBCefJS3ySf2DL",
+		"EXszXNkNJPxdaD3MbRGsSChYMEZqENx8ojN4QaFA2TXVdam",
+		"GRy7LfBXoFaYadiCBGHS1gG4VHLeQPhXtzYmwpw3519Fsna",
+		"H4hHhuhs1zWm1jAjj42VAr7VTc99yV3J9x3tXLTtD2GnMvD",
+		"JLTc71gmpMB95GJSgXrp79Soijvqibg27uiQRkLEDHdRrqq"
+	],
+	"malware": [
+		"12PYb7mRTTKVwAqtdwp8tcvnq2Vwj8Xr47q1nPNPpXsKq8F7",
+		"12zjCHjeTB9Qoj8tiUTGkRRyYNwXyAZbGvs8p1YZsy1t4vws",
+		"15DRsDdtTtrrZEgBEm4G9SSNV5anev4qTkCarHsZ6eLy2hhn"
+	],
+	"moonwarpre-sale.live": [
+		"FsZ8HpXnrYrCPhYZRhc4coeyvTVVMVMXzqqhG4kgXYXB259"
+	],
+	"musk-in.com": [
+		"12rpYzbZHLmM83UcAuudQWr4cdb6xVCCe2brMQeno5isbSwK"
+	],
+	"okexevent.live": [
+		"1V4SqTDeq79DVtgHBjpkuJtNDJt3KvCEzphRJWKs29Fn7DF"
+	],
+	"org-site-v3-defi.pro": [
+		"159oXVjZNRJU3W89SYrKPwgWXK11SVGy8TFqSWVku9qcyDVQ"
+	],
+	"phishing Polkadot extension": [
+		"12KYiC8PZaXuGFay57m8TJCeHaRGp1uy4ADMiqVkXArMiSqP",
+		"13dwDYAFBrpsxQi1XUCor8FKUs7GQcEM6oGGaDhEE9y8CXYd"
+	],
+	"polka-live.network": [
+		"12Wq34hifmLv4MGZKof1XnA9hugnzMyjqos1ffGretnDSkKn"
+	],
+	"polka2022.net": [
+		"1Rb2Uhkkztfz2oJewKXcEBRykQurtJAZ1zLEsWyrFs24RFD"
+	],
+	"polka22.net": [
+		"1Rb2Uhkkztfz2oJewKXcEBRykQurtJAZ1zLEsWyrFs24RFD"
+	],
+	"polkabonus.com": [
+		"16XuqCCe8kBK7SbLhaLhUQQzRLJthB2hdrPzKghVGZqwAsRs"
+	],
+	"polkacoinbonus.com": [
+		"13WKPgYxPyzL8KMcqZ94eSFp2FoQH4AUxxLgjj7Sgkdhw6R9",
+		"14iSVrf4GM4SCV1eYCBJpLKjRDjWvLEdb1Rk7jmQSjhkCScv"
+	],
+	"polkacompetition.network": [
+		"13wexwAAKXFmubsbWtrWpy2F5osPNFhEsCUdoV1z2NMmxESm"
+	],
+	"polkadot-2021.com": [
+		"145Q8TtcaosvWTWsQ4G7DARkwPEsDQPdaptKMhDww8QGnG3Z"
+	],
+	"polkadot-22.com": [
+		"12GfJZjsUzXxTYXxYcYHArYzC1Hs9E83VniVCEFLpdG7pybW"
+	],
+	"polkadot-airdrop.info": [
+		"13DUJB2UFQYJNG8eAgvbPUDZowTnb45cq7EM7WvtkNksPMZW",
+		"1Ha5y2Kpc9KdJbtdXdvZoJebj3ZM8VgAZvkbjHtR4mxq7oQ"
+	],
+	"polkadot-airdrop.live": [
+		"15x6f6M42ccmTq3emCtyCZUKCbYLH3msCPmHGnEgwUxZRAu4"
+	],
+	"polkadot-airdrop.online": [
+		"13tPgZsgmExwuRRKFsvj16LCVN4XXKtjGMH5yLW7cit8GJ73"
+	],
+	"polkadot-airdrop.org": [
+		"12We44NDCNUWa9tnfgxmSc38vDXFXcnLDkGdL2Xy45mnhZ52",
+		"14BFcanA3zYTpbCmzKGXVEnFe9WoBCq3JdPQdnsiEgEhXSA2",
+		"14oEqqqCabUQdsdq1zP1qdb8b4uhEnc2mL1YYHKf8xYbh8FB",
+		"1Ha5y2Kpc9KdJbtdXdvZoJebj3ZM8VgAZvkbjHtR4mxq7oQ"
+	],
+	"polkadot-airdropcampaign.network": [
+		"128yJEQjj3chFwgvWwp47tDPP1GewnJLz46et8dvRpq63JPX"
+	],
+	"polkadot-airdrops.net": [
+		"15qeaJ252MdLNjiEfhb7aLrbDCekLT6MUtkVQPqKGa9P8r5J"
+	],
+	"polkadot-autopool.com": [
+		"126NpgSzEYfqVTqQS98xHkCp5VtsKTQyHaAP2gjpfT31o7fn",
+		"138stjzW3YLzLD4JYLLMETD7EpngvPpjwEx9bpJtnHKjNyEG",
+		"13tHavsAyZwfQ4TjmJ3m4J21xDeoGMHSJbwxFYqgJmTPUqmS",
+		"15HebpddhHUfZZie7CqiqPAN6hqGDAGZJF1mySvuXAfuzkXV",
+		"1Ha5y2Kpc9KdJbtdXdvZoJebj3ZM8VgAZvkbjHtR4mxq7oQ",
+		"1qexhTWaUtJLejP34EjCaT77nYZoEHNegphjFZhbK4aDpej",
+		"1qmaACn27JqK2hsg24n8AaptPtNqNMWKNXUvySnBuWzdQ8x"
+	],
+	"polkadot-bonus-network.42web.io": [
+		"14mTh8hbaoSoa2r2EBCFYssRjW4KQEGhkyg5Zz7LAiRpg3zg"
+	],
+	"polkadot-bonus.com": [
+		"12fPwMJtQ5UjPaJdtXJiN8YrbaadQCK9LcQahBVvvNHLdCTW"
+	],
+	"polkadot-bonus.network": [
+		"12RGBMjuLkCX6TKUoG33Fm4SzpxNYjwjgqHZ9huk5Nk4NAPh",
+		"13QXwR7CMUHksNfMkZ1pHhSGhwsjRWNY6YGFeppJWpwoSjxy",
+		"14hE8Pht7NG5613URQ3sznQsNc2UZ4djFJtvvJ8TPCeTmyfZ",
+		"14NLZmts5kV15rkmMUVtWkycazK665fCVZvtv8nnxaYHiRTB",
+		"15ftXw6mqY4S3izajNjDrCuqjMjqmruW4mm4DbFZajKymf7h",
+		"168wBzsuk6gdEASmULaMEiEsfuvvqaFeZhSL9zJmNWpP5orD",
+		"1DsARAWRSyMoy815SeZrFytb74Qvw7W2wsrsYWZxZmHcRC4"
+	],
+	"polkadot-bonusevent.network": [
+		"12fqbLtHefPtK5bN4t68J5aqci4XoWcQp9ZfZFMUZ7rceVg9"
+	],
+	"polkadot-bonusevents.network": [
+		"1uzCNYyqpYumCMnHbqzDg1FisVq8ttxW5ykw45cTphtsxuW"
+	],
+	"polkadot-event.com": [
+		"124QZBBTZtPDGPS4GqK6w8y5rPUC7EydLka9Gk3qCTDemGTN",
+		"13DW6RWgjUPcZ9mwwEMcb8qBcakQyzpxNw8ic32QXAEfGLxW",
+		"15GhxqrycWiRe9PePtN5CppTk8g63dXgM5vm9a9gwRMbPjRZ"
+	],
+	"polkadot-event.live": [
+		"13xyaXynjLvjyFGLnzJRAc22CTL92YBKFxvUHjw3jk63RJru"
+	],
+	"polkadot-event.org": [
+		"169jsdkPSn4HrXqPZUzjfdW8e6HzvGgGEzgSpwABwiQWD7Hx"
+	],
+	"polkadot-events.live": [
+		"157S94u4bwXapUzQxJsch14c8V2qGHvSLVp3iY1neEUQrPrE"
+	],
+	"polkadot-get.com": [
+		"16hGDoTMCp5MidmTrNrM7C4PmW8YsKHWdfWuYNS4j7uqUMZ8",
+		"1xxiVzncNRjFHMHUo27iLDo931f35YjVQauRBWuA4JEHfRz"
+	],
+	"polkadot-gift.info": [
+		"15qfYtQaRHHqxxAhRX5qKh6HXeWaSaF7rLfzjLtgW27USYH1"
+	],
+	"polkadot-gift.org": [
+		"15qfYtQaRHHqxxAhRX5qKh6HXeWaSaF7rLfzjLtgW27USYH1"
+	],
+	"polkadot-give2021.com": [
+		"12BiQc2z8baceu1DLNSXYRbQHGCrf3Gfg8oqrVZQkVcUZYgN"
+	],
+	"polkadot-mixer.com": [
+		"12YGfGjZpdkRqTk8ziuBvLAzp4FxMp4itbf8keoRAAJKYHDt"
+	],
+	"polkadot-online.live": [
+		"16h6cD9DvRkz7Z8Xd43BTmubqaSQcZ3EUMD3tiHNwJ6kuhQa"
+	],
+	"polkadot-promo.info": [
+		"15qfYtQaRHHqxxAhRX5qKh6HXeWaSaF7rLfzjLtgW27USYH1",
+		"1s3B8f5dJbtV4rVTZs1WNRpzKCUJWxK2zULErjmA52Do2SF"
+	],
+	"polkadot-reward.network": [
+		"1rJAfox6RPpjCFwD1uPADQhfa2DJkyEKiASH5G1FNhzuRvW"
+	],
+	"polkadot-wallet.org": [
+		"12aTob47XtRAYUUjUyxAH92gDLwrEwq8YGzLVptUJytuqF3U",
+		"15C1Z8FmM8MXrDh8hRb7QgkpBQ5DPUnu2rPgJUv8NNWnUXcD",
+		"15yi5F2nqtT39AyvwaLkY2seE2XmuW8HjQWZg3RHEXsbBCTs"
+	],
+	"polkadot.activebonus.live": [
+		"14SmaFsh7VitSn8mdTZyb4Z7RuVWyCPLKJF7zNweUzr5WHsH"
+	],
+	"polkadot.band": [
+		"13KSYqMKZj78fmhgVNMKvpSGcY8acwBTrqZek4pmeUx8pGri"
+	],
+	"polkadot.center": [
+		"12nNSFLEJU2HiuSidgd3c1bzSNn82SNpobnGso5GXF43eme6",
+		"12sGH82aAENExuio8BpNqXGxaXgrxMS88Qm9bfSJrav9Nito",
+		"133t5Gs2ccbjHN7dYD4Qwr6sxK8Lgg8pFVJPy1nDaPWvYZFP",
+		"14Vxs7UB9FqfQ53wwTJUBAJThs5N7b3bg89HscRU6eBqrFhQ",
+		"15D9AzetihsSKbtENL4TL9q8AeQkAaZTLiu7rWE3dXaMvb7t",
+		"15dLxX36VPeP2LvFDYAjT5h4T4aHT7z6YoUSe9fBZSnGhJ9m",
+		"15z4uj2amXJNiRbb4hRje5hSKCh9M8EEfKh1CYfXPDn86Q3Q",
+		"1b75pxy41SLXDeoddmV1cnCzg8G9MVPWZjJ9Ej46ePvWKvZ",
+		"1sGUwgsvuzuyKCD5i1V2zG92C8b2udF3rnB7VvDq8S2ddfd"
+	],
+	"polkadot.company": [
+		"1s3B8f5dJbtV4rVTZs1WNRpzKCUJWxK2zULErjmA52Do2SF"
+	],
+	"polkadot.deals": [
+		"12Hyg8wxXFVrggfQNvUAJDH7wAtZz1VzAmvr5dL4PnUswh9t"
+	],
+	"polkadot.events": [
+		"13bV6nsJJe9HUafMfQxWwwabs7ovgef3RWvyndBWaGDkQiJ3"
+	],
+	"polkadot.express": [
+		"13nHdwVLfHNbfj7aAxCwXhdS8HvCKggMpzy7B65jgcUFXRp9",
+		"1m4ETpXD8ea24oFkegbBfFSC3nXh6FqGuvgXdxpq2iQyUkn"
+	],
+	"polkadot.gifts": [
+		"12sjkUWhURdpqL9w2eE4XDC9VEcuN13ibhMHt6ttxQDq9GGj",
+		"13ymLjSssDJtTM418AkXQBjLkaqQQ8mxJPtYMmDqZBp3mkDU",
+		"15XQ1FSaDo3mRqXbARS3j9wn3eCKvZGwe8HF7XegHqf3URgs",
+		"1vRYig6ZRukLanajFXozks8RTca7GpsXXqQ3oW2yFzQkoin"
+	],
+	"polkadot2022.net": [
+		"1Rb2Uhkkztfz2oJewKXcEBRykQurtJAZ1zLEsWyrFs24RFD"
+	],
+	"polkadot22.com": [
+		"15ijgCpxnMMGPzao1baotnN8rCfTa1vaFAc1xiLvNQJonACh"
+	],
+	"polkadot2x.net": [
+		"1Rb2Uhkkztfz2oJewKXcEBRykQurtJAZ1zLEsWyrFs24RFD"
+	],
+	"polkadotairdrop.com": [
+		"1RnWVvUiL9ZmDEYWxSpNyrWhq9gHEQcihFoYBdJTmuWjaav"
+	],
+	"polkadotceo.com": [
+		"145Q8TtcaosvWTWsQ4G7DARkwPEsDQPdaptKMhDww8QGnG3Z"
+	],
+	"polkadotcngiveaway.network": [
+		"133R8fsXDoUyXqPCXJcRvGHo8fyjqxVrVFkyZGCEewc4M4zR"
+	],
+	"polkadotevent.com": [
+		"155o9qsbLFQdWRdhDvJZAdnmBHQCnbrbSbbpnH27618CX1ry"
+	],
+	"polkadotevent.live": [
+		"16jsZHnWhg7uSeFfG7DFPo1SEd12RZURFsbvX35oHW61oTqw"
+	],
+	"polkadotevent.net": [
+		"12nBTeJMfs4wkBaSduGX9495JTeqCSKKE1k6ajz3rC7TyW8j"
+	],
+	"polkadotevent2022.asia": [
+		"1Rb2Uhkkztfz2oJewKXcEBRykQurtJAZ1zLEsWyrFs24RFD"
+	],
+	"polkadotevent2022.net": [
+		"1Rb2Uhkkztfz2oJewKXcEBRykQurtJAZ1zLEsWyrFs24RFD"
+	],
+	"polkadotevent22.net": [
+		"1Rb2Uhkkztfz2oJewKXcEBRykQurtJAZ1zLEsWyrFs24RFD"
+	],
+	"polkadotevents.asia": [
+		"1Rb2Uhkkztfz2oJewKXcEBRykQurtJAZ1zLEsWyrFs24RFD"
+	],
+	"polkadotlive.network": [
+		"12BSDyhSV4XXmBXcgKTnsMi6e4ir56ttufiXB36x7v4utRNw",
+		"13PD34YRdcLAfwPpuWTbRBDMYXCvzYU5gKkJt5h7hEc6nezv",
+		"15TZMmGy3eX6FJqCJHLir4KSnd5ECUukFVvgfEPCuDhe8asx",
+		"161tc4jLym61rz84WaxqBiiBovmH2FmnKGVDKcZyquwUxJEg",
+		"166a8ThxgaTseVJ5ado3qmyg9YkYfys81uNw94PTZceAmZoX",
+		"16C6TrBTi7VohiMguZeSCNPxwqYTR9eWWoQsbwnJ7wtJTD2N",
+		"16UDgowT2DEEk73EX2bB5c5HmuvJrLvmWsGomWmyK3CqyzVz",
+		"1kkuZEr93AtZL9mDyo2ZBXLm7cjCpABiitieYVhKLFniP2m"
+	],
+	"polkadots-airdrop.com": [
+		"134FGPTdSgz7vH2jMHRGNJA53irZ8xJeHauTmowNkfLez3BQ"
+	],
+	"polkadots.network": [
+		"125NoipEsCbtFHNW9b2oyBpKQue5Rco2KJKveB5QQJLQJKyY",
+		"12MxahH5ht8VhJBHtgs5JzaB2BQu3FBc3f5ydi6q9t31AHbg",
+		"14h58wtSWXy6sh8F2XhSb87RLQK6puYWFkeyewYnprcxzz9Z"
+	],
+	"polkadotstake.live": [
+		"1SApiFKXgNzu6uvbHLPNccfEW72bwX9XuHCm9czsrXsNttv"
+	],
+	"polkadotstaking.live": [
+		"15aAz55RFFPYTs7P9eWry5AeYy75mgyqJQ4BNspcBPjFonns"
+	],
+	"polkaeco-airdrops.org": [
+		"13wVdQNmLTyvcxk4ZrXtwUFT1CBHT9s15SXH7EmPpFPHh8c4"
+	],
+	"polkaevent.com": [
+		"12GfJZjsUzXxTYXxYcYHArYzC1Hs9E83VniVCEFLpdG7pybW"
+	],
+	"polkagive.com": [
+		"15fv8ovgk2kw43EYK7e5Pz2aBnAhDhoYQRcep9i3iwUFmBSf"
+	],
+	"polkagiveaway.com": [
+		"12HR9ciHKMmcs7MJhykPUEhSk7ssA1eu7VWZyoLqyZ1os4Uf",
+		"167u8YLEEBwENxQnKw8GJwbWWREoWxMGMnVuXW6HcYBXbVc2"
+	],
+	"polkagiveaway.net": [
+		"1Rb2Uhkkztfz2oJewKXcEBRykQurtJAZ1zLEsWyrFs24RFD"
+	],
+	"polkagiveaway22.net": [
+		"1Rb2Uhkkztfz2oJewKXcEBRykQurtJAZ1zLEsWyrFs24RFD"
+	],
+	"prize-pool.site": [
+		"Ea5tiakNhCZFyxmRjBHwLf945fPSB8XFxhn5aUekfDyaHvs"
+	],
+	"qc-project.com": [
+		"1ZURA97ytkt5UzXnY5Dikb72DpG36ASbAgqnq6FgARUfksL"
+	],
+	"seed stealers": [
+		"123cGxYkVbL6sQg9LJNuQWDCSdbaTpNknhCxSZA4iSP4KoGf",
+		"126G1nTbMLY8HxMz976eMHL4ssPJ4ecHjqHonDZCQoteVCDe",
+		"12axBK2kdyb4mY5wchM1jJgaG7SQVDN4NgvMGVhMNZahKawB",
+		"12F4h3xxcSEiNCaAc8YbKUbwXf6EdE7vnurbQVtpQUh8Y7cf",
+		"12YC2YiMMRFKohsYVwLq9qpxV9xwXfmdv5NfKcLJGr678ksV",
+		"13a9q2oVqXAKoKCe5fYnFSwo7BwudsWQ7N4nACGRPH8rNAMB",
+		"13BHmK34JBDGNzzhtPnNnEqDNqNkNPnkEAfrgQUosoPXqrLG",
+		"13dkLdCtfkZubUWnbhKqYasQQcKqS6CxV69QQZ3Yd5Jue5Me",
+		"13rLKmhsbfpgR5A2rPZB82RYynECCzbHHvjBJDsUPfC1WQtw",
+		"13VPTRk6hqEzsKKHa6DYuBMu36HhaK2jG3DbMw7mL25QUS1H",
+		"13WrDtTn49pdAoAbA3ZkwF3RJUxdUdg99UF4JVXfhxxCrkFP",
+		"13zbPeSzHt52K14rXgtR5wzQyDo5pNyaBocw2qpyJ3CiMa4Z",
+		"14kTcefWWMQc5S5Ue5cK8LBT4m1GsztLMeE5TqQVjXhzkQgu",
+		"14TCQ42swVnhyR1v1WGmRoKfrxB8qosZwdsUfG3LQCPn4ioe",
+		"14zPnRCpbFRjsVnJ4PXvYpubE7PM5AxLZP1RFABJAhp6H3iC",
+		"1514vFFYZexTLh9qeUvkB6hMS1PybkTiVbUb3eCjSVm4dKh4",
+		"15cvcdCWaxk17pugVAu6hHMZ7qE1YhURif1k79Q6mjvxAWrq",
+		"15hjsTUn17rzHhoFGDEcGgwA9HfSeR8F6VaMzTEcYQKLwaCk",
+		"164xfx9ZJUgyerpwaUS1DbfwfQrmbBHkZZECmG63RuTU1jdZ",
+		"16LfnXqD8QUytp1t3PkZeuML2y3QJLCM9qANbqwUTSuaiwha",
+		"16Wfq2PKPkUtPKDX2DbpRqmTdnewGueVKd7823vY9GtKUigL",
+		"1MzTtCsg424kxC54PPLWajvGsXwkjyVN8n5EAszwbdJu5DD",
+		"1tCUSnrb7bPNKNvdfBhejKwK2r52pKN9MbReQAFyv6YTw6e",
+		"1Tv9SryHw1NhqKbuwWD2TCjV3mQ7h9qGuP5MJXVjnw8o7uU"
+	],
+	"social engineering": [
+		"16JeATU8HazNbaMkpNW2niozWgNu1A6dx5u2kKs7pZaS4Vze"
+	],
+	"telegra.ph": [
+		"125W1NSHM63kKp1xTrKgUijAMMKKm8kwgydXKno6VNhKs77i",
+		"14MrAYGMmV9Yy2JDQQUzvPS6zQUyXHNLrNLV8bLtPV4K7otN",
+		"1X3M7sGA1Nbgd8Qh45uqdQMPNFXSHbWnvPp6CkQ9Ttp46dQ"
+	],
+	"trust-exmo.com": [
+		"14XBrkiqCJMLaA3nyFb747PMoPv2zn7XiCCuP8AHS5uYL4cc"
+	],
+	"twitter.com": [
+		"15MGfKyXwLuuBndsiz25CJXjzR7Xp4SwTXkYJR2nNY5MGrPE",
+		"1WeNyi3dTjq6WCEvJrsrqBH2ChRWARosUTbEwVFyVFscsx1"
+	],
+	"ukraine-save.com": [
+		"13wP3jcfC6peD5YrARcPoUseqPAoQGqpcFNfhRawEV3sGWTW"
+	],
+	"ultimative-bank.com": [
+		"13CAYfDb81EmMFCpwjVbPU5xTae9pR7jG9v2XNK7QVQrtbr"
+	],
+	"vaultswap.space": [
+		"16TgJmXHJgQSmKa7uxqrB269FEbDpQqxeB3vzv1Z2HEJA6TM"
+	],
+	"vstex.pro": [
+		"12dSc5yYFWgxir8QfRDYPBGKPUCZFarthG17TJgUUnBjWCNJ"
+	],
+	"vstex.top": [
+		"12dSc5yYFWgxir8QfRDYPBGKPUCZFarthG17TJgUUnBjWCNJ"
+	],
+	"we-change.online": [
+		"12PZN4A6LE2sNr9A7a2whDC3kLWYFBqc1bV5aAnTpGqJNyRD"
+	],
+	"x2polkadot.net": [
+		"1Rb2Uhkkztfz2oJewKXcEBRykQurtJAZ1zLEsWyrFs24RFD"
+	],
+	"x2polkadotevent.net": [
+		"1Rb2Uhkkztfz2oJewKXcEBRykQurtJAZ1zLEsWyrFs24RFD"
+	],
+	"x2polkaevent.net": [
+		"1Rb2Uhkkztfz2oJewKXcEBRykQurtJAZ1zLEsWyrFs24RFD"
+	],
+	"youtube.com": [
+		"13afnZRWDqmaRapMg6URQkDEnoxuVzHUCYo2v61dXaKHdgBB",
+		"13xuoAwwqfZuyAsRuUBasa8AhjdqzRbdyS3m52Lu6oCpFQRv",
+		"1461Dsvr9GmkRjUkdJcYGP6HFygwQeZcspc6W5QgJVAT59yt",
+		"14gWkqi6J3U4mcRTCi7yy824S2GepSNqpM4xNjLTCzGQpCst",
+		"1X3M7sGA1Nbgd8Qh45uqdQMPNFXSHbWnvPp6CkQ9Ttp46dQ"
+	]
 }
